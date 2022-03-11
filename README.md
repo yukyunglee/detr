@@ -1,7 +1,7 @@
 # DETR
 **End-to-End Object Detection with Transformers paper, code review**
 
-<img src="/Users/yukyung/Documents/GitHub/detr/img/DETR.png" alt="DETR" style="zoom:40%;" />
+<img src="./img/DETR.png" alt="DETR" style="zoom:40%;" />
 
 * Class : Advanced computer vision (AAA739, Professor Seungryong Kim)
 * Date : 2022.3.10
@@ -28,7 +28,7 @@ DETR code based on official implementation (https://github.com/facebookresearch/
 
 
 
-<img src="/Users/yukyung/Documents/GitHub/detr/img/overview.png" alt="DETR" style="zoom:40%;" />
+<img src="./img/overview.png" alt="DETR" style="zoom:40%;" />
 
 ##### Contents 
 
