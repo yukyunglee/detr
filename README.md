@@ -28,7 +28,7 @@ DETR code based on official implementation (https://github.com/facebookresearch/
 
 
 
-<img src="./img/overview.png" alt="DETR" style="zoom:40%;" />
+<img src="./img/Overview.png" alt="DETR" style="zoom:40%;" />
 
 ##### Contents 
 
