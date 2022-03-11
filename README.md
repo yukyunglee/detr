@@ -1,7 +1,7 @@
 # DETR
 **End-to-End Object Detection with Transformers paper, code review**
 
-<img src="./img/DETR.png" alt="DETR" style="zoom:40%;" />
+<img src="./img/DETR.png" alt="DETR" style="zoom:30%;" />
 
 * Class : Advanced computer vision (AAA739, Professor Seungryong Kim)
 * Date : 2022.3.10
